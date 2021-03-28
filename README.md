@@ -3,11 +3,11 @@ API call, list of movies, Pagination, unit test, dynamic searching, details page
 
 # Scripts
 
-npm install
-npm start
-npm test
+installation - npm install,
+start app - npm start,
+run test - npm test
 
-# Tchnologies
+# Technologies
 redux, redux-saga, material ui, router, axios, react.js, create-react-app
 
 # Assumptions
