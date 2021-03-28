@@ -88,7 +88,7 @@ const Dashboard = () => {
                 component="p"
               >
                 {`Genre: ${
-                  genre.data.length !== 0 ? getGenre(details.data.genres) : ""
+                  details.data.genres !== 0 ? getGenre(details.data.genres) : ""
                 }`}
               </Typography>
               <Typography
